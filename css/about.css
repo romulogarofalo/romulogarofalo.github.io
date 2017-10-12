@@ -1,0 +1,78 @@
+.panel-about {
+    /*margin-top: 0px;*/
+    text-align: center;
+    background-color: #181818;
+    font-family: Quicksand;
+}
+.panel-about .skills {
+
+    padding-bottom: 20px;
+
+}
+
+.panel-about h2 {
+
+    top: 0;
+    font-size: 30px;
+    color: #cccccc;
+}
+
+.panel-about h1 {
+
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 20px;
+    color: #cccccc;
+}
+
+.panel-about h3 {
+    font-size: 18px;
+      color: #cccccc;
+}
+
+.panel-about .title {
+
+    font-size: 40px;
+
+}
+
+.panel-about .subtitle {
+
+    font-size: 24px;
+}
+
+.panel-about .about-description {
+    vertical-align: top;
+    text-align: left;
+    vertical-align: baseline;
+    display: inline-block;
+    font-size: 20px;
+    line-height: 35px;
+    max-width:300px;
+    word-wrap:break-word;
+    padding:35px;
+}
+
+.what-i-do {
+
+  text-align: left;
+  vertical-align: baseline;
+  display: inline-block;
+  font-size: 20px;
+  line-height: 35px;
+  max-width:300px;
+  word-wrap:break-word;
+  padding:35px;
+}
+
+.playlist {
+
+  margin-top: 10px;
+  vertical-align: baseline;
+  display: inline-block;
+  font-size: 20px;
+  line-height: 35px;
+  max-width:300px;
+  word-wrap:break-word;
+  padding:35px;
+}
