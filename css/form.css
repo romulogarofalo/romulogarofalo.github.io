@@ -1,7 +1,3 @@
-.panel-form {
-
-    background-color: #D7D7D7;
-}
 
 .panel-form .title {
     font-size: 32px;
@@ -11,6 +7,11 @@
     font-family: Quicksand;
 }
 
-.button-place {
+.panel-form li {
+    
+    display: inline-block;
+}
+
+.panel-form div {
     text-align: center;
 }
