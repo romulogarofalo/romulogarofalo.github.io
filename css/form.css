@@ -5,9 +5,10 @@
 
 .panel-form .title {
     font-size: 32px;
-    color: #EF7247;
+    color: #000;
     text-align: center;
     text-transform: uppercase;
+    font-family: Quicksand;
 }
 
 .button-place {
