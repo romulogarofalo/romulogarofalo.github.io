@@ -1,0 +1,51 @@
+body {
+    color: #eaeaea;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+    background: #151515
+}
+h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    letter-spacing: -0.03em;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.1),0 0 5px rgba(181,232,83,0.1),0 0 10px rgba(181,232,83,0.1);
+    margin:30px;
+}
+
+h1 {
+    font-size: 30px;
+    color: #8600c9;
+}
+
+.postBlog{
+    margin: 30px;
+}
+.header .jumbotron {
+    padding-bottom: 0px;
+    font-size: 2em;
+    color: #8600c9;
+    margin-top: 0px;
+}
+
+.jumbotron {
+    
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    color: inherit;
+    background-color: #eee;
+}
+
+.blocoCodigo {
+    color: #d0d0d0;
+    background: rgba(0,0,0,0.9);
+    border: 1px solid rgba(255,255,255,0.15);
+    padding: 10px;
+    font-size: 16px;
+    color: #b5e853;
+    border-radius: 2px;
+    text-wrap: normal;
+    overflow: auto;
+    overflow-y: auto;
+    overflow-y: hidden;
+}
