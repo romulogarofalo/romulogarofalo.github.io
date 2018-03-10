@@ -1,21 +1,22 @@
 ## Who I am
-i'm Rômulo Garofalo backend developer (i know frontend too but, whatever) im amoust finishing my colege in Systems Analysis at FATEC Rubens Lara, functional programim with Haskell have been my hobby in this last two years
+
+I’m Rômulo Garofalo, I'm a backend developer (I know frontend too, but mainly backend). I'm almost finishing my college in System Analysis and Development at FATEC Rubens Lara. Functional programming with Haskell has been my hobby in these last two years.
 
 ## What I know
 
-About the technologies that I have worked and make some projects with
+About the technologies that I've worked with and made some projects with
 
-### [](#header-4)Framework and programming language
+### [](#header-4)Frameworks and programming languages
 
 *   Python (Django)
 *   C# (Windows Forms and Web Forms)
 *   PHP (Laravel)
 *   Java (Play Framework)
-*   Haskell (Yesod) <- this is the one that i most like
+*   Haskell (Yesod) <- this one's what I like the most
 
 ### [](#header-4) Experience
 
-* PHP - I had work with PHP and framework Laravel making new features and fixing bugs for a system that is focus audit of invoices, one of the features wore take a code from invoices using OCR or Regex(case of text pdf), with the code make a Curl and get informations from a site to show on the system 
+* PHP - I've worked with PHP and Laravel, developing new features and fixing bugs for a system that focuses on the auditing of invoices, one of the features was taking a code from the invoices using OCR or Regex(in case of pdfs w/ text) and using it to make a Curl and get informations from a website to be shown on the system. 
 
 ### [](#header-4) My Projects
 
