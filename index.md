@@ -18,6 +18,15 @@ About the technologies that I've worked with and made some projects with
 
 * PHP - I've worked with PHP and Laravel, developing new features and fixing bugs for a system that focuses on the auditing of invoices, one of the features was taking a code from the invoices using OCR or Regex(in case of pdfs w/ text) and using it to make a Curl and get informations from a website to be shown on the system. 
 
+
+### Talks.
+|Date               |Title                                              |Venue                  |Link                  |
+|:-----------------:|:-------------------------------------------------:|:---------------------:|:--------------------:|
+|Mar 2018           |I graduated, and then?                             |Itanhaém SP Brasil     |                      |
+|Dez 2017           |Introduction to functional programming with Haskell|Santos SP Brasil       |                      |
+
+
+
 ### [](#header-4) My Projects
 
 | Dragon Ball API                         |                  SigCel                |
