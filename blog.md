@@ -4,6 +4,7 @@ In this talk,I mainly talk about which qualifications and skills you will achiev
 
 ![](img/talk2.jpg)
 
+----------------------------------------------------------------------------------
 
 # Introduction to functional programming with Haskell
 
