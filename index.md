@@ -23,8 +23,8 @@ About the technologies that I've worked with and made some projects with
 
 | Date      | Title                                             | Venue                 | Link                  |
 |:---------:|:-------------------------------------------------:|:---------------------:|:---------------------:|
-|Mar 2018   |I graduated, and then?                             |Itanhaém SP Brasil     |[Link to Blog](blog/blog.md)|
-|Dez 2017   |Introduction to functional programming with Haskell|Santos SP Brasil       |[Link to Blog](blog/blog.md)|
+|Mar 2018   |I graduated, and then?                             |Itanhaém SP Brasil     |[Link to Blog](blog.md)|
+|Dez 2017   |Introduction to functional programming with Haskell|Santos SP Brasil       |[Link to Blog](blog.md)|
 
 
 
